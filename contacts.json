@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "phoneNumber": "+1234567890",
+    "email": "john.doe@example.com",
+    "isFavourite": true,
+    "contactType": "personal"
+  },
+  {
+    "name": "Jane Smith",
+    "phoneNumber": "+1987654321",
+    "email": "jane.smith@company.com",
+    "isFavourite": false,
+    "contactType": "work"
+  },
+  {
+    "name": "Bob Johnson",
+    "phoneNumber": "+1122334455",
+    "email": "bob.johnson@home.com",
+    "isFavourite": false,
+    "contactType": "home"
+  },
+  {
+    "name": "Alice Brown",
+    "phoneNumber": "+1555666777",
+    "email": "alice.brown@example.com",
+    "isFavourite": true,
+    "contactType": "personal"
+  },
+  {
+    "name": "Charlie Wilson",
+    "phoneNumber": "+1444333222",
+    "email": "charlie.wilson@office.com",
+    "isFavourite": false,
+    "contactType": "work"
+  }
+]
